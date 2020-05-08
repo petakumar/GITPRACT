@@ -2,5 +2,8 @@ this is my first file
 modified file1
 
 
+
 THIS IS THE LINE MODIFIED BY TEAM mate1
 
+
+THESE LINES ADDED BY PROJECT LEAD
